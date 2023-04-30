@@ -8,7 +8,7 @@ const customer = {
   favoriteFlavors: 32,
   cupSize: "medium",
   favoriteStore: "Target",
-  firstVisit: false
+  firstVisit: false,
 };
 
 // Modify the incorrect information
